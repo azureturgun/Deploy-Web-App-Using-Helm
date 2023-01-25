@@ -26,5 +26,5 @@ spec:
             - name: PIN
               value: "123456789"
             - name: VAN
-              value: 2023
+              value: "2023"
               
